@@ -26,7 +26,32 @@ Ez a gyári kombó:
 ![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms.jpg "Ant BMS 24s")
 
 Kijelző: (ez az egyik változat is egyben a kijelzők tekintetébe)
-![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_lcd2.png "Ant BMS 24s")
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_lcd2.PNG "Ant BMS 24s")
 
 Alkalmazás:
-![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_app.png "Ant BMS 24s")
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_app.PNG "Ant BMS 24s")
+
+GLCD változat:
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/bms_graph_1.jpg "Ant BMS 24s")
+
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/bms_graph_2.jpg "Ant BMS 24s")
+
+E-ink változat fejlesztés közben:
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/epaper_1.jpg "Ant BMS 24s")
+
+# Adatok kinyerése
+Az első lépés az volt, hogy megfigyeljem a kommunikációt, ehhez egyszerűen a BMS UART vezetékeire rácsatlakoztam egy digitális analizátort
+és megfigyeltem, elmentettem az ott zajló kommunikációt. Ezeket az adatokat a "digital_signal_log" mappában találjátok.
+
+Hallgatozás közen:
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/bms_log.jpg "Ant BMS 24s")
+
+Adatok látszanak:
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/bms_listening.jpg "Ant BMS 24s")
+
+# Hardver javítása és programozása
+STM32 MCU leszedve:
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/bms_lcd.jpg "Ant BMS 24s")
+
+Már a programozás látható:
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/bms_lcd_2.jpg "Ant BMS 24s")
