@@ -43,7 +43,7 @@ E-ink változat fejlesztés közben:
 Az első lépés az volt, hogy megfigyeljem a kommunikációt, ehhez egyszerűen a BMS UART vezetékeire rácsatlakoztam egy digitális analizátort
 és megfigyeltem, elmentettem az ott zajló kommunikációt. Ezeket az adatokat a "digital_signal_log" mappában találjátok.
 
-Hallgatozás közen:
+Hallgatozás közben:
 ![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/bms_log.jpg "Ant BMS 24s")
 
 Adatok látszanak:
