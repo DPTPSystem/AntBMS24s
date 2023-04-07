@@ -26,7 +26,7 @@ Ez a gyári kombó:
 ![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms.jpg "Ant BMS 24s")
 
 Kijelző: (ez az egyik változat is egyben a kijelzők tekintetébe)
-![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_lcd2.jpg "Ant BMS 24s")
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_lcd2.png "Ant BMS 24s")
 
 Alkalmazás:
-![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_app.jpg "Ant BMS 24s")
+![Ant BMS 24s](https://github.com/DPTPSystem/AntBMS24s/blob/master/images/antbms_app.png "Ant BMS 24s")
